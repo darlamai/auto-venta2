@@ -1,0 +1,8 @@
+{
+    "/vehiculo/*": {
+      "target": "http://www.epico.gob.ec/vehiculo/public/api/",
+      "secure": false,
+      "logLevel": "debug",
+      "changeOrigin": true
+    }
+}
